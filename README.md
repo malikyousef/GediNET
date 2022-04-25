@@ -1,0 +1,1 @@
+# GediNET - In the study, we developed a novel approach GediNET that integrates prior biological knowledge about genes associated with diseases like cancer to group genes into groups. The novelty of GediNet is that it discovers  disease-disease gene associations within groups rather than disease-gene associations.
