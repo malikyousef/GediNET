@@ -14,15 +14,15 @@ Emma Qumsiyeh: emma.qumsiyeh@hotmail.com<br>
 To read the paper [click](https://www.researchsquare.com/article/rs-1643219/v1.pdf)
 <br>
 ## Knime ##
-PriPath tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
+**GediNET** tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
 This is the link for downloading Knime: https://www.knime.com/downloads<br>
 For more information about the Knime platform you might visit https://www.knime.com/software-overview <br>
 See this [page](pages/SettingsKnime.md) for information about setting Knime.
 <br>
-Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/TableFormat.md) for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
+Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/TableFormat.md) for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
 <br>
-Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/GroupingFile.md) for instruction in how to upload the Groups file.  
-Visit this [page](https://github.com/malikyousef/PriPath/blob/main/pages/outputs.md) for the outputs of PriPath.
+Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/GroupingFile.md) for instruction in how to upload the Groups file.  
+Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/outputs.md) for the outputs of PriPath.
 <br> 
 The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](PriPath_Sep_2022.knwf) and run throug the [Knime](https://www.knime.com/)platform
 
