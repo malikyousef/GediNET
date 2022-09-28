@@ -34,7 +34,7 @@ The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](Pri
 - You need to configure the node “List Files/Folders” to point it to the folder that has the gene expression dataset in a table format (as described above)
 - You might [download](GDS4824.table) an example of such data named [DSD84.table](GDS4824.table)
 
-![alt text](https://github.com/malikyousef/PriPath/blob/main/images/PriPath_main.PNG?raw=true)
+![alt text](https://github.com/malikyousef/GediNET/blob/main/images/GediNET_main.JPG?raw=true)
 
 
  
