@@ -1,4 +1,4 @@
-**GediNET- Discovering Multi-Disease Gene Associations using Established Biological Information and Knowledge-based Machine Learning**<br>
+## **GediNET- Discovering Multi-Disease Gene Associations using Established Biological Information and Knowledge-based Machine Learning** ##<br>
 Emma Qumsiyeh<sup>1*</sup>, Louise Showe<sup>2</sup>, and Malik Yousef<sup>3,4*</sup><br>
 <sup>1</sup>Information Technology Engineering, Al-Quds University, Palestine<br>
 <sup>2</sup>The Wistar Institute, Philadelphia, PA,19104, USA<br>
