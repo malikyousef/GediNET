@@ -1,12 +1,12 @@
 **GediNET- Discovering Multi-Disease Gene Associations using Established Biological Information and Knowledge-based Machine Learning**<br>
-Emma Qumsiyeh<sup>1*</sup>, Louise Showe<sup>2</sup>, and Malik Yousef<sup>3,4*</sup>
-<sup>1</sup>Information Technology Engineering, Al-Quds University, Palestine
-<sup>2</sup>The Wistar Institute, Philadelphia, PA,19104, USA
-<sup>3</sup>Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel
-<sup>4</sup>Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel
-<sup>*</sup>Corresponding authors: 
-Malik Yousef: malik.yousef@gmail.com
-Emma Qumsiyeh: emma.qumsiyeh@hotmail.com
+Emma Qumsiyeh<sup>1*</sup>, Louise Showe<sup>2</sup>, and Malik Yousef<sup>3,4*</sup><br>
+<sup>1</sup>Information Technology Engineering, Al-Quds University, Palestine<br>
+<sup>2</sup>The Wistar Institute, Philadelphia, PA,19104, USA<br>
+<sup>3</sup>Department of Information Systems, Zefat Academic College, Zefat, 13206, Israel<br>
+<sup>4</sup>Galilee Digital Health Research Center (GDH), Zefat Academic College, Israel<br>
+<sup>*</sup>Corresponding authors:<br>
+Malik Yousef: malik.yousef@gmail.com<br>
+Emma Qumsiyeh: emma.qumsiyeh@hotmail.com<br>
 
 
 *	Correspondence: malik.yousef@gmail.com;
