@@ -11,7 +11,7 @@ Emma Qumsiyeh: emma.qumsiyeh@hotmail.com<br>
 
 *	Correspondence: malik.yousef@gmail.com;
 
-To read the paper [click](https://www.researchsquare.com/article/rs-1643219/v1.pdf)
+## To read the paper [click](https://www.researchsquare.com/article/rs-1643219/v1.pdf)
 <br>
 ## Knime ##
 **GediNET** tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
