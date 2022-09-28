@@ -44,7 +44,7 @@ The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](Pri
 
  ## The content of the G-S-M component ##
  
- ![alt text](https://github.com/malikyousef/PriPath/blob/main/images/Ttest_and_GSM.JPG?raw=true)
+ ![alt text](https://github.com/malikyousef/GediNET/blob/main/images/Ttest_and_GSM.JPG?raw=true)
 
 ## The 3 main component of G-S-M ##
- ![alt text](https://github.com/malikyousef/PriPath/blob/main/images/G-S-M_all_steps.JPG?raw=true)
+ ![alt text](https://github.com/malikyousef/GediNET/blob/main/images/G-S-M_all_steps.JPG?raw=true)
