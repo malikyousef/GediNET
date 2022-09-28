@@ -22,11 +22,11 @@ See this [page](pages/SettingsKnime.md) for information about setting Knime.
 Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/TableFormat.md) for instruction in how to prepare the dataset into Knime table format (*.table) using a Knime workflow
 <br>
 Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/GroupingFile.md) for instruction in how to upload the Groups file.  
-Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/outputs.md) for the outputs of PriPath.
+Visit this [page](https://github.com/malikyousef/GediNET/blob/main/pages/outputs.md) for the outputs of GediNET.
 <br> 
 The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](PriPath_Sep_2022.knwf) and run throug the [Knime](https://www.knime.com/)platform
 
-## PriPath main workflow is: ##
+## GediNET main workflow is: ##
 
 **Running the workflow:**
 
@@ -38,7 +38,7 @@ The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](Pri
 
 
  
- ## The content of the MetaNode PriPath is : ##
+ ## The content of the MetaNode GediNET is : ##
  
 ![alt text](https://github.com/malikyousef/PriPath/blob/main/images/PripPath_MetaNode.JPG?raw=true)
 
