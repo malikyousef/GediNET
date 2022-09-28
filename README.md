@@ -40,7 +40,7 @@ The Knime workflow name is "PriPath_Sep_2022.knwf" that you might [download](Pri
  
  ## The content of the MetaNode GediNET is : ##
  
-![alt text](https://github.com/malikyousef/PriPath/blob/main/images/PripPath_MetaNode.JPG?raw=true)
+![alt text](https://github.com/malikyousef/GediNET/blob/main/images/GediNET_MetaNode.JPG?raw=true)
 
  ## The content of the G-S-M component ##
  
