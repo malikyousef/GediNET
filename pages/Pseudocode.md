@@ -1,6 +1,6 @@
 ## GediNET Pseudocode ##
-Function Score(x : two-class dataset , r: number of iteration )
-         acc = 0 
+Function Score(x : two-class dataset , r: number of iteration )<br>
+         acc = 0 <br>
          for i = 1 to r 
              [x_train, x_test] = split (x, 0.8) // split the data x with ration of 80%-20%
              model = fit(x_train)
