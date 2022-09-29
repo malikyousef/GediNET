@@ -31,6 +31,8 @@ The Knime workflow name is "GediNET_v1.knwf" that you might [download](GediNET_v
 - You need to use the node “MCCV Iterations” in order to specify the number of Monte Carlo Cross Validation (MCCV) iterations, for example 10 or 100.
 - You need to configure the node “List Files/Folders” to point it to the folder that has the gene expression dataset in a table format (as described above)
 - You might [download](GDS4824.table) an example of such data named [DSD84.table](GDS4824.table)<br>
+
+## The  Pseudocode of GediNET can seen over this [file](Pseudocode.txt) 
 ## GediNET main workflow is: ##
 
 ![alt text](https://github.com/malikyousef/GediNET/blob/main/images/GediNET_main.JPG?raw=true)
