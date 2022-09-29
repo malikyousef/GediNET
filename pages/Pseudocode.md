@@ -1,11 +1,11 @@
 ## GediNET Pseudocode ##
 Function Score(x : two-class dataset , r: number of iteration )<br>
          acc = 0 <br>
-         for i = 1 to r 
-             [x_train, x_test] = split (x, 0.8) // split the data x with ration of 80%-20%
-             model = fit(x_train)
-             acc = acc+ test(model,x_test)
-  return acc/r //the score 
+         for i = 1 to r <br>
+             [x_train, x_test] = split (x, 0.8) // split the data x with ration of 80%-20%<br>
+             model = fit(x_train)<br>
+             acc = acc+ test(model,x_test)<br>
+  return acc/r //the score <br>
 
 Function SubDataSet(D: dataset ,g_set : set of genes )
        D_sub is all the columns of genes that appear on g_set 
